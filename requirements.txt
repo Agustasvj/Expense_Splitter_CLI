@@ -1,0 +1,2 @@
+# Expense Splitter CLI Requirements
+python>=3.8
