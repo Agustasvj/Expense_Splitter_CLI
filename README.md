@@ -53,5 +53,9 @@ Available groups:
   <li>Export reports to PDF or Excel.</li>
 </ul>
 
+<<<<<<< HEAD
 <h2>📜 License</h2>
 <p>MIT License</p>
+=======
+
+>>>>>>> 5fee114d9e230ae801446dcc3bd1b6c7e57b504b

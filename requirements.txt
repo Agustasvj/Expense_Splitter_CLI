@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 # Expense Splitter CLI Requirements
 python>=3.8
+=======
+# requirements.txt
+
+# Expense Splitter CLI dependencies
+# Works with Python 3.8+
+# No external packages required
+>>>>>>> 5fee114d9e230ae801446dcc3bd1b6c7e57b504b
