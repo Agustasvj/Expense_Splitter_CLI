@@ -33,9 +33,15 @@ python expense_splitter.py
 </ol>
 
 <h2>📖 Example Run</h2>
-<img src="images/select_group.png" alt="Banner" />
-<img src="images/create_group.png" alt="Banner" />
-<img src="images/main_menu.png" alt="Banner" />
+<ul>
+  <h2>1. Select Group</h2>
+  <img src="images/select_group.png" alt="Banner" />
+  <h2>2. Create Group</h2>
+  <img src="images/create_group.png" alt="Banner" />
+  <h2>3. Main Menu</h2>
+  <img src="images/main_menu.png" alt="Banner" />
+</ul>
+
 
 <h2>🔮 Future Improvements</h2>
 <ul>
