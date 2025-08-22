@@ -49,13 +49,6 @@ python expense_splitter.py
   <li>Add web/GUI interface.</li>
   <li>Export reports to PDF or Excel.</li>
 </ul>
-<<<<<<< HEAD
 
-<<<<<<< HEAD
 <h2>📜 License</h2>
 <p>MIT License</p>
-=======
-
->>>>>>> 5fee114d9e230ae801446dcc3bd1b6c7e57b504b
-=======
->>>>>>> 9435f2a765ef94ea8b3cdd32c43a477d38381cb7
