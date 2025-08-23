@@ -18,10 +18,15 @@
 
 <h2>⚙️ Installation</h2>
 <pre>
-git clone https://github.com/your-username/expense-splitter.git
-cd expense-splitter
-python expense_splitter.py
+  git clone https://github.com/your-username/expense-splitter.git
 </pre>
+<pre>
+  cd expense-splitter
+</pre>
+<pre>
+  python expense_splitter.py 
+</pre>
+
 
 <h2>🚀 Usage</h2>
 <ol>
