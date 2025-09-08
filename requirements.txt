@@ -1,3 +1,4 @@
 # Expense Splitter CLI dependencies
 # Works with Python 3.8+
 # No external packages required
+colorama==0.4.6
