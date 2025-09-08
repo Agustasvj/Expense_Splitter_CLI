@@ -21,7 +21,7 @@
   git clone https://github.com/Agustasvj/Expense_Splitter_CLI.git
 </pre>
 <pre>
-  cd Exxpense_Splitter_CLI
+  cd Expense_Splitter_CLI
 </pre>
 <pre>
   pip install -r requirements.txt
