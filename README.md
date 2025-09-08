@@ -24,6 +24,9 @@
   cd Exxpense_Splitter_CLI
 </pre>
 <pre>
+  pip install -r requirements.txt
+</pre>
+<pre>
   python expense_splitter.py 
 </pre>
 
